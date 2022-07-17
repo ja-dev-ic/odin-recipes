@@ -3,16 +3,17 @@
 ## The Odin Project Foundations Project
 
 <details>
-<sumary><h3>Assignment</h3></sumary>
+<summary><h3>Assignment</h3></summary>
 
   <details>
-  <sumary><h4>Iteration 1: Initial Structure</h4></sumary>
+  <summary><h4>Iteration 1: Initial Structure</h4></summary>
 
   Within the odin-recipes directory, create an index.html file.
 
   Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
 </details>
-  ####Iteration 2: Recipe Page
+<details>
+  <summary><h4>Iteration 2: Recipe Page</h4></summary>
 
   Create a new directory within the odin-recipes directory and name it recipes.
 
@@ -21,8 +22,9 @@
   For now, just include an h1 heading with the recipe’s name as its content.
 
   Back in the index.html file, add a link to the recipe page you just created. The text of the link should again be the recipe name.
-
-  ####Iteration 3: Recipe Page Content
+</details>
+  <details>
+    <summary><h4>Iteration 3: Recipe Page Content</h4></summary>
 
   The recipe page should have the following content:
 
@@ -34,10 +36,12 @@
   Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
 
   Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
-
-  ####Iteration 4: Add More Recipes
+</details>
+  <details>
+  <summary><h4>Iteration 4: Add More Recipes</h4></summary>
 
   Add two more recipes with identical page structures to the recipe page you’ve already created.
 
   Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+  </details>
 </details>
