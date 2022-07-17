@@ -2,7 +2,7 @@
 
 ## The Odin Project Foundations Project
 
-<details>
+<assignment>
 <sumary><h3>Assignment</h3></sumary>
 
   <details>
@@ -40,4 +40,4 @@
   Add two more recipes with identical page structures to the recipe page you’ve already created.
 
   Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
-</details>
+</assignment>
