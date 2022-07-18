@@ -17,7 +17,7 @@
 
   Create a new directory within the odin-recipes directory and name it recipes.
 
-  Create a new HTML file within the recipes directory and name it after the recipe it will contain. For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can find a recipe to use here.
+  Create a new HTML file within the recipes directory and name it after the recipe it will contain. For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can [find a recipe to use here](https://www.allrecipes.com/).
 
   For now, just include an h1 heading with the recipe’s name as its content.
 
