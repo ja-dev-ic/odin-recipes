@@ -28,7 +28,6 @@
 
   The recipe page should have the following content:
 
-
   An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on Google or the recipe site we linked to earlier.
 
   Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
